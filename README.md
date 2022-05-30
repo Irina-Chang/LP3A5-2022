@@ -7,7 +7,7 @@ referências bibliográficas:
 <br>
 Streams : https://howtodoinjava.com/series/java-streams-guide/
 <br>
-Semáforo: (in progress)
+Semáforo: https://howtodoinjava.com/java/multi-threading/binary-semaphore-tutorial-and-example/
 <br>
 Optional: (in progress)
 <br>
