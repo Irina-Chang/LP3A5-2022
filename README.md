@@ -12,6 +12,7 @@ São definidos 3 classes, <a href="https://github.com/Irina-Chang/LP3A5-2022/blo
 Streams são funções alinhadas em pipeline, que se utilizam de LAZY WAITING, ou seja, são processadas apenas no momento de execução.
 <br> Exemplo de um código, em JAVA, de um <a href = "https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/ExemploStreams/ExemplosStreamsAluno.java"> Stream </a>, com funções intermediárias e finais.
 <br> 
+<h3> <a href ="https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/Optonal%20test> Optional</a> </h3>
 
 <br>
 <br>
