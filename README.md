@@ -16,8 +16,8 @@ Streams são funções alinhadas em pipeline, que se utilizam de LAZY WAITING, o
 <br>
 <h3> <a href ="https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/Optonal%20test"> Exceptions </a> </h3>
 <br>
-<h3><a href ="https://github.com/Irina-Chang/LP3A5-2022/tree/main/src/Gilded_Rose/src"> Gilded Rose </a></h3>/
- Gilded Rose Kata é um desafio de refactoração de códigos, disponíveis em diversas línguagens de programação. O exemplo usado nesse repositório utiliza linguagem JAVA.
+<h3><a href ="https://github.com/Irina-Chang/LP3A5-2022/tree/main/src/Gilded_Rose/src"> Gilded Rose </a></h3>
+ Gilded Rose Kata é um desafio de refatoração de códigos, disponíveis em diversas línguagens de programação. O exemplo usado nesse repositório utiliza linguagem JAVA.
 <br>
 <br>
 referências bibliográficas: 
