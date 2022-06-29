@@ -12,8 +12,12 @@ São definidos 3 classes, <a href="https://github.com/Irina-Chang/LP3A5-2022/blo
 Streams são funções alinhadas em pipeline, que se utilizam de LAZY WAITING, ou seja, são processadas apenas no momento de execução.
 <br> Exemplo de um código, em JAVA, de um <a href = "https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/ExemploStreams/ExemplosStreamsAluno.java"> Stream </a>, com funções intermediárias e finais.
 <br> 
-<h3> <a href ="https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/Optonal%20test> Optional</a> </h3>
-
+<h3> <a href ="https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/Optonal%20test"> Optional</a> </h3>
+<br>
+<h3> <a href ="https://github.com/Irina-Chang/LP3A5-2022/blob/main/src/Optonal%20test"> Exceptions </a> </h3>
+<br>
+<h3><a href ="https://github.com/Irina-Chang/LP3A5-2022/tree/main/src/Gilded_Rose/src"> Gilded Rose </a></h3>/
+ Gilded Rose Kata é um desafio de refactoração de códigos, disponíveis em diversas línguagens de programação. O exemplo usado nesse repositório utiliza linguagem JAVA.
 <br>
 <br>
 referências bibliográficas: 
